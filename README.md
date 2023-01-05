@@ -1,5 +1,4 @@
 # PortfolioProject
-/*
 
 PERSONAL EXPENSES PORTFOLIO PROJECT
 
@@ -13,4 +12,5 @@ and Tableau for Visualization.
 -- The month of October'22 arrows an abnormal result which was when a one-time payment and withdraw happened,
 these were removed on certain visual analysis for better understanding.  
 
-*/
+Interactive Visualization on Expenses Analysis can be seen here:
+https://public.tableau.com/app/profile/joanasn/viz/PersonalExpenses-Project/ExpensesProject
